@@ -1,0 +1,2 @@
+rootProject.name = "RGIT"
+include ':app'
